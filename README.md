@@ -7,9 +7,9 @@ __系級：科技116__
 ### [HW1]個人網站
 * <https://0una11.github.io/ounaii/>
 ### [HW2] React
-* React <https://0una11.github.io/choice/>
+* React網址 <https://0una11.github.io/choice/>
 * 影片 <https://drive.google.com/file/d/1QtTXg0PHDLGIOArp4VUM7q0KxsBfQGj_/view?usp=drive_link>
 * ChatGPT連結-1<https://chatgpt.com/share/67121ecc-d8a8-800a-ac9a-1d2c44703780>
-* ChatGPT連結-2<https://chatgpt.com/share/67121f0a-df6c-800a-9205-f69326a4bc5a>
+* 程式碼 <https://github.com/0una11/choice>
 ### [HW3]
 ## 專題連結區   
