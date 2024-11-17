@@ -11,7 +11,7 @@ __系級：科技116__
 * 影片 <https://drive.google.com/file/d/1ey8hLrTCifypRC8ZhidlBCKZk-yDVb1Q/view?usp=sharing>
 * ChatGPT連結 <https://chatgpt.com/share/67121ecc-d8a8-800a-ac9a-1d2c44703780>
 * 程式碼 <https://github.com/0una11/choice>
-### [HW3]
+### [HW3] React專案範例應用
 * 簡報連結 <https://www.canva.com/design/DAGWwGJ3F7c/28sGd3FIAuJO0mNeQYHorA/edit?utm_content=DAGWwGJ3F7c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 * 影片連結
 ## 專題連結區   
