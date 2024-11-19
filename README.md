@@ -13,6 +13,6 @@ __系級：科技116__
 * 程式碼 <https://github.com/0una11/choice>
 ### [HW3] React專案範例應用
 * 簡報連結 <https://drive.google.com/file/d/1FiaOT58MuRTNA6VECrQKV8rQ1y60cK1r/view?usp=sharing>
-* 影片連結 <https://drive.google.com/file/d/1dpR1Wr79UlFRJk4Nq0uOsXfpe6RUyY5p/view?usp=drive_link>
+* 影片連結 <https://youtu.be/tN-9mPZBi2Y>
 ## 專題連結區   
 * 第一次提案簡報 <https://www.canva.com/design/DAGViFSNqz8/BuuPht6aLhhk5wXjWTunQQ/edit?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
