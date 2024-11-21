@@ -15,7 +15,7 @@ __系級：科技116__
 * 簡報連結 <https://drive.google.com/file/d/1FiaOT58MuRTNA6VECrQKV8rQ1y60cK1r/view?usp=sharing>
 * 影片連結 <https://youtu.be/tN-9mPZBi2Y>
 * 網站連結 <https://bmi-project.onrender.com>
-* 程式碼
+* 程式碼 <https://github.com/0una11/bmi-project>
 ## 專題連結區   
 * 第一次提案簡報 <https://www.canva.com/design/DAGViFSNqz8/BuuPht6aLhhk5wXjWTunQQ/edit?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 * 第一次提案影片<https://youtu.be/5SIjZ7eLq1o>
