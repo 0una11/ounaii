@@ -23,4 +23,5 @@ __系級：科技116__
 ## 專題連結區   
 * 第一次提案簡報 <https://www.canva.com/design/DAGViFSNqz8/BuuPht6aLhhk5wXjWTunQQ/edit?utm_content=DAGViFSNqz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 * 第一次提案影片<https://youtu.be/5SIjZ7eLq1o>
-* 第二次提案影片<https://youtu.be/Xln-5uTK-6g>
+* 第二次進度影片<https://youtu.be/Xln-5uTK-6g>
+* 第三次進度影片<https://youtu.be/59s4WuUC0Sk?si=5E9xXNvuP_3Fzv1X>
