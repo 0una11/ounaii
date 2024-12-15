@@ -25,5 +25,7 @@ __系級：科技116__
 * 第一次提案影片<https://youtu.be/5SIjZ7eLq1o>
 * 第二次進度影片<https://youtu.be/Xln-5uTK-6g>
 * 第三次進度影片<https://youtu.be/59s4WuUC0Sk?si=5E9xXNvuP_3Fzv1X>
-### 專題最終成果連結
+### 專題最終成果
+*專題網址<https://final-group-app.onrender.com>
 *最終成果展示影片<https://youtu.be/b_IYgCwhubA>
+*程式碼<https://github.com/41271212h/final-group-app>
